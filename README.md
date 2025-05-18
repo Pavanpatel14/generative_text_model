@@ -78,3 +78,12 @@ Adjust sliders for text length and creativity, then click Generate.
 ## OUTPUT
 <img width="282" alt="Image" src="https://github.com/user-attachments/assets/cb47772d-3398-4174-8972-2606a203b159" />
 
+
+##  Live Demo
+
+You can try the app here:
+
+👉 [Click to Open the Deployed App](https://generative-text-model.streamlit.app/p)
+
+
+
